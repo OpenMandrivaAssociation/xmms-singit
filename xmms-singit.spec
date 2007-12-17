@@ -10,7 +10,6 @@ Source:		%{name}-%{version}.tar.bz2
 License:	GPL
 Group:		Sound
 Url:		http://stud.fbi.fh-darmstadt.de/~glogow/
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	glib2-devel
 BuildRequires:	gtk+1.2-devel
 BuildRequires:	xmms1-devel
