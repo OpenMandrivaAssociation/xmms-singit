@@ -12,7 +12,7 @@ Group:		Sound
 Url:		http://stud.fbi.fh-darmstadt.de/~glogow/
 BuildRequires:	glib2-devel
 BuildRequires:	gtk+1.2-devel
-BuildRequires:	xmms1-devel
+BuildRequires:	xmms-devel
 BuildRequires:	id3lib-devel
 
 %description
