@@ -1,6 +1,6 @@
 %define name xmms-singit
 %define version 0.0.8
-%define release %mkrel 8
+%define release %mkrel 9
 
 Summary:	 Lyric Displayer and editor plugin for XMMS
 Name:		%{name}
